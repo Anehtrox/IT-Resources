@@ -10,6 +10,6 @@ Clears all cache locations, MacOS will automatically rebuild on reboot.
 
 Copy all text below into Terminal:
 
-/Volumes/Install\ macOS\ Monterey/Troubleshooting\ Scripts/ClearCache.sh
+/Volumes/Install\ macOS\ {Operating System}/Troubleshooting\ Scripts/ClearCache.sh
 
 Needs to be restarted!!
