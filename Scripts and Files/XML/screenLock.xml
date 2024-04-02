@@ -1,0 +1,22 @@
+<dict>
+    <key>allowSimple</key>
+    <true/>
+    <key>forcePin</key>
+    <true/>
+    <key>maxGracePeriod</key>
+    <integer>0</integer>
+    <key>maxInactivity</key>
+    <integer>10</integer>
+    <key>PayloadDescription</key>
+    <string>Enforces Screen Lock on macOS Devices</string>
+    <key>PayloadDisplayName</key>
+    <string>Screen Lock</string>
+    <key>PayloadIdentifier</key>
+    <string>com.apple.mobiledevice.passwordpolicy.27755E34-82FD-4579-9A0C-6728E3EC2DCD</string>
+    <key>PayloadType</key>
+    <string>com.apple.mobiledevice.passwordpolicy</string>
+    <key>PayloadUUID</key>
+    <string>27755E34-82FD-4579-9A0C-6728E3EC2DCD</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
