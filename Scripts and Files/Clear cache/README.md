@@ -10,6 +10,7 @@ Clears all cache locations, MacOS will automatically rebuild on reboot.
 
 Copy all text below into Terminal:
 
-/Volumes/Install\ macOS\ {Operating System}/Troubleshooting\ Scripts/ClearCache.sh
+<Path_to_script>/ClearCache.sh
 
-Needs to be restarted!!
+You will be prompted for the local machine password.
+**Once Complete you will need to restart the device**
