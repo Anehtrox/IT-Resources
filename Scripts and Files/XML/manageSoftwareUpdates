@@ -1,0 +1,28 @@
+<dict>
+    <key>AutomaticCheckEnabled</key>
+    <true/>
+    <key>AutomaticDownload</key>
+    <true/>
+    <key>AutomaticallyInstallAppUpdates</key>
+    <true/>
+    <key>AutomaticallyInstallMacOSUpdates</key>
+    <true/>
+    <key>ConfigDataInstall</key>
+    <true/>
+    <key>CriticalUpdateInstall</key>
+    <true/>
+    <key>restrict-software-update-require-admin-to-install</key>
+    <false/>
+    <key>AllowPreReleaseInstallation</key>
+    <false/>
+    <key>PayloadDisplayName</key>
+    <string>Apple Managed Software Updates</string>
+    <key>PayloadIdentifier</key>
+    <string>com.apple.SoftwareUpdate.FAE01621-5B6C-4AE4-BF06-A50FAA2AFD0C</string>
+    <key>PayloadType</key>
+    <string>com.apple.SoftwareUpdate</string>
+    <key>PayloadUUID</key>
+    <string>FAE01621-5B6C-4AE4-BF06-A50FAA2AFD0C</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
